@@ -5,6 +5,8 @@
 
 [![Top Langs](https://github-readme-stats-git-master-crusus-projects.vercel.app/api/top-langs/?username=cipriRusu&size_weight=0.5&count_weight=0.5)](https://github.com/cipriRusu/github-readme-stats)
 
+<!-- [![Readme Card](https://github-readme-stats-git-master-crusus-projects.vercel.app/api/pin/?username=cipriRusu&repo=encapsulation-practice)](https://github.com/cipriRusu/github-readme-stats) >
+
 <!--
 **cipriRusu/cipriRusu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
