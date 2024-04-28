@@ -1,6 +1,8 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,nextjs)](https://skillicons.dev)
 
+[![Cipris GitHub stats](https://github-readme-stats-git-master-crusus-projects.vercel.app/api?username=cipriRusu)](https://github.com/cipriRusu/github-readme-stats)
+
 <!--
 **cipriRusu/cipriRusu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
