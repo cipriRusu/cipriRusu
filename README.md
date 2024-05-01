@@ -1,12 +1,12 @@
 :briefcase: Software Developer@[Keystone Education Group](https://keg.com)
 
-### Actively used:
+### Actively working with:
 
-<a href="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nextjs"><img src="https://skillicons.dev/icons?i=html,css,sass,mui,js,react,tailwind,nextjs,typescript,nodejs,vercel,aws" alt="My Skills">
+<a href="https://skillicons.dev/icons?i=html,css,sass,mui,js,react,tailwind,nextjs,typescript,nodejs,vercel,aws"><img src="https://skillicons.dev/icons?i=html,css,sass,mui,js,react,tailwind,nextjs,typescript,nodejs,vercel,aws" alt="My Skills">
 
-### Used Tools & Interests:
+### Other tools & interests:
 
-<a href="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nextjs"><img src="https://skillicons.dev/icons?i=arch,emacs,vim,bash,linux,ubuntu" alt="My Skills">
+<a href="https://skillicons.dev/icons?i=linux,arch,ubuntu,emacs,vim,bash"><img src="https://skillicons.dev/icons?i=linux,arch,ubuntu,emacs,vim,bash" alt="My Skills">
 
 <table>
   <tr>
