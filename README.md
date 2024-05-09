@@ -22,7 +22,7 @@
   </tr>
   <tr>
      <td><a href="https://github.com/cipriRusu/data-structures-implementation"><img src="https://github-readme-stats-git-master-crusus-projects.vercel.app/api/pin/?username=cipriRusu&repo=data-structures-implementation&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&border_color=000000"></img></a></td>
-     <td><a href="https://github.com/cipriRusu/practice-problems"><img src="https://github-readme-stats-git-master-crusus-projects.vercel.app/api/pin/?username=cipriRusu&repo=blogtype-mvc-app&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&border_color=000000"></img></a></td>
+     <td><a href="https://github.com/cipriRusu/blogtype-mvc-app"><img src="https://github-readme-stats-git-master-crusus-projects.vercel.app/api/pin/?username=cipriRusu&repo=blogtype-mvc-app&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&border_color=000000"></img></a></td>
   </tr>
   <tr>
     <td><a href="https://github.com/cipriRusu/practice-problems"><img src="https://github-readme-stats-git-master-crusus-projects.vercel.app/api/pin/?username=cipriRusu&repo=practice-problems&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&border_color=000000"></img></a></td>
