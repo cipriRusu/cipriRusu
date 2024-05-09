@@ -17,12 +17,12 @@
 
 <table>
   <tr>
-    <td><a href="https://github.com/cipriRusu/JSON-Validator"><img src="https://github-readme-stats-git-master-crusus-projects.vercel.app/api/pin/?username=cipriRusu&repo=JSON-Validator"></img></a></td>
-    <td><a href="https://github.com/cipriRusu/chess-notation-evaluator"><img src="https://github-readme-stats-git-master-crusus-projects.vercel.app/api/pin/?username=cipriRusu&repo=chess-notation-evaluator"></img></a></td>
+    <td><a href="https://github.com/cipriRusu/JSON-Validator"><img src="https://github-readme-stats-git-master-crusus-projects.vercel.app/api/pin/?username=cipriRusu&repo=JSON-Validator&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&border_color=000000"></img></a></td>
+    <td><a href="https://github.com/cipriRusu/chess-notation-evaluator"><img src="https://github-readme-stats-git-master-crusus-projects.vercel.app/api/pin/?username=cipriRusu&repo=chess-notation-evaluator&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&border_color=000000"></img></a></td>
   </tr>
   <tr>
-     <td><a href="https://github.com/cipriRusu/data-structures-implementation"><img src="https://github-readme-stats-git-master-crusus-projects.vercel.app/api/pin/?username=cipriRusu&repo=data-structures-implementation"></img></a></td>
-     <td><a href="https://github.com/cipriRusu/practice-problems"><img src="https://github-readme-stats-git-master-crusus-projects.vercel.app/api/pin/?username=cipriRusu&repo=practice-problems"></img></a></td>
+     <td><a href="https://github.com/cipriRusu/data-structures-implementation"><img src="https://github-readme-stats-git-master-crusus-projects.vercel.app/api/pin/?username=cipriRusu&repo=data-structures-implementation&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&border_color=000000"></img></a></td>
+     <td><a href="https://github.com/cipriRusu/practice-problems"><img src="https://github-readme-stats-git-master-crusus-projects.vercel.app/api/pin/?username=cipriRusu&repo=practice-problems&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&border_color=000000"></img></a></td>
   </tr>
 </table>
 
