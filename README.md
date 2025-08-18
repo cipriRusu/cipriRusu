@@ -4,9 +4,11 @@
 
 <a href="https://skillicons.dev/icons?i=html,css,sass,mui,js,react,tailwind,nextjs,typescript,nodejs,vercel,aws"><img src="https://skillicons.dev/icons?i=html,css,sass,mui,js,react,tailwind,nextjs,typescript,nodejs,vercel,aws" alt="My Skills">
 
-### Other tools & interests:
+<!-- ### Other tools & interests:
 
 <a href="https://skillicons.dev/icons?i=linux,arch,ubuntu,emacs,vim,bash"><img src="https://skillicons.dev/icons?i=linux,arch,ubuntu,emacs,vim,bash" alt="My Skills">
+
+-->
 
 <table>
   <tr>
